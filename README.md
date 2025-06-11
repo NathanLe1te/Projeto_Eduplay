@@ -1,2 +1,2 @@
 # Projeto_Eduplay
-Projeto final do curso de Programação em Python
+Projeto Final do Curso de Programação em Python
