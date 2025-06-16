@@ -1,2 +1,2 @@
-# Projeto_Pygame
-Projeto final do curso de Programação em Python
+# Projeto_Eduplay
+Projeto Final do Curso de Programação em Python
